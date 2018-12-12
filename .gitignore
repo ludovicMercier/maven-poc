@@ -1,3 +1,9 @@
+#IDE settings
+.idea
+my-poc.iml
+
+target
+
 # Compiled class file
 *.class
 
