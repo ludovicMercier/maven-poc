@@ -22,5 +22,12 @@
       <url>https://nexus.demo-pic.techlead-top.ovh/repository/maven-snapshots/</url>
       <layout>default</layout>
     </snapshotRepository>
+    <repository>
+      <id>nexus-releases</id>
+      <name>nexus-releases</name>
+      <url>https://nexus.demo-pic.techlead-top.ovh/repository/maven-releases/</url>
+      <layout>default</layout>
+      <uniqueVersion>true</uniqueVersion>
+    </repository>
   </distributionManagement>
 </project>
