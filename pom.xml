@@ -4,7 +4,7 @@
   <groupId>com.mypoc.app</groupId>
   <artifactId>my-poc</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <name>my-poc</name>
   <url>http://maven.apache.org</url>
   <dependencies>
