@@ -15,4 +15,9 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <distributionManagement>
+    <snapshotRepository>
+      <id>nexus-snapshots</id>
+    </snapshotRepository>
+  </distributionManagement>
 </project>
